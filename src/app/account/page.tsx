@@ -15,7 +15,7 @@ const LOYALTY_PROGRESS = (LOYALTY_POINTS / LOYALTY_GOAL) * 100;
 const lastVisit = {
   date: "Dinsdag 15 april 2026",
   service: "Knip + Baard",
-  detail: "Skin fade op de zijkanten, textuur met massa bovenkant, baard bijgewerkt en geolied.",
+  detail: "Skin fade op de zijkanten, textuur met volume boven, baard bijgewerkt en geolied.",
   barber: "Lennard Heida",
   rating: 5,
 };
