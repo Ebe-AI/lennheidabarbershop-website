@@ -39,7 +39,7 @@ export function useCart(): CartContextValue {
   return ctx;
 }
 
-const STORAGE_KEY = "lhb-cart";
+const STORAGE_KEY = "lhb-cart-v2";
 
 export function CartProvider({ children }: { children: ReactNode }) {
   // Always start with empty state to avoid SSR hydration mismatch
