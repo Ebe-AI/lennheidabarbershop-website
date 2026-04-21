@@ -139,7 +139,7 @@ export default function ShopPage() {
                 De Shop.
               </h1>
               <p className="font-dm text-muted text-[15px] leading-relaxed mt-3 max-w-sm">
-                Professionele producten voor thuis — dezelfde merken die Lennard gebruikt in de stoel.
+                Professionele producten voor thuis, dezelfde merken als in de stoel.
               </p>
             </div>
 

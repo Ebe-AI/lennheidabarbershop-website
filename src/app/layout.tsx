@@ -19,7 +19,7 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Lenn Heida Barbershop — Heerenveen",
+  title: "Lenn Heida Barbershop - Heerenveen",
   description:
     "Premium barbershop in Heerenveen. Vakmanschap in elke knip. Knippen, baard trimmen en meer door Lennard Heida.",
   keywords: "barbershop, Heerenveen, knippen, baard, Lennard Heida",

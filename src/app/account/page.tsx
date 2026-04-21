@@ -32,7 +32,7 @@ const recommendations = [
     id: 1,
     name: "Fiber Paste",
     brand: "Layrite",
-    reason: "Perfect voor jouw skin fade — houdt de textuur boven heel de dag.",
+    reason: "Perfect voor jouw skin fade, houdt de textuur boven heel de dag.",
     price: 24.95,
     image: "https://images.unsplash.com/photo-1775127741095-86ee33b6b385?w=300&q=80",
   },
@@ -55,11 +55,11 @@ const recommendations = [
 ];
 
 const aiSuggestions = [
-  "Hey Lenn, ik wil dezelfde fade als vorige keer, maar misschien iets strakker aan de zijkant — en mijn baard mag iets korter.",
+  "Hey Lenn, ik wil dezelfde fade als vorige keer, maar misschien iets strakker aan de zijkant. En mijn baard mag iets korter.",
   "Lenn, de skin fade was perfect. Mijn haar groeit snel, dus de zijkanten steken al iets meer uit. Kun je die weer aanscherpen?",
-  "Ik wil de textuur bovenkant dit keer iets voller houden — niet te kort. De fade mag hetzelfde als vorig keer.",
+  "Ik wil de textuur bovenkant dit keer iets voller houden, niet te kort. De fade mag hetzelfde als vorig keer.",
   "Hey Lenn, kun je de bovenkant wat langer laten? Ik wil proberen om wat meer volume te krijgen. De zijkanten mogen kort.",
-  "Zelfde als altijd — skin fade, iets bijgewerkt boven. Oh, en mijn baard mag ook even netjes gemaakt worden.",
+  "Zelfde als altijd: skin fade, iets bijgewerkt boven. Oh, en mijn baard mag ook even netjes gemaakt worden.",
   "Lenn, ik wil eigenlijk iets nieuws proberen. Iets meer textuur boven, minder fade aan de zijkant. Wat denk jij?",
 ];
 

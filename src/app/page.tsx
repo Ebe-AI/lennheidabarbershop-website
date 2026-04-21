@@ -10,7 +10,7 @@ const services = [
     name: "Knippen",
     price: "€26,95",
     description:
-      "Van skin fade tot klassiek — elke knip is een maatwerktraject. We starten altijd met een consult over jouw stijl en haartype.",
+      "Van skin fade tot klassiek, elke knip is maatwerk. We starten altijd met een consult over jouw stijl en haartype.",
     duration: "45 min",
     featured: false,
   },
@@ -28,7 +28,7 @@ const services = [
     name: "Knip + Baard",
     price: "€42,—",
     description:
-      "Het volledige pakket. Haar en baard in één sessie — voor wie het beste van zichzelf wil laten zien.",
+      "Het volledige pakket. Haar en baard in één sessie, voor wie er op z'n best wil staan.",
     duration: "75 min",
     featured: true,
   },
@@ -92,7 +92,7 @@ export default function HomePage() {
             </h1>
 
             <p className="font-dm text-cream/70 text-[17px] leading-relaxed mb-10 max-w-md">
-              Precisie, ambacht en een persoonlijke aanpak. Lennard knipt niet zomaar — hij luistert eerst.
+              Precisie, ambacht en een persoonlijke aanpak. Lennard knipt niet zomaar. Hij luistert eerst.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
@@ -170,7 +170,7 @@ export default function HomePage() {
                 </h2>
               </div>
               <p className="font-dm text-muted text-sm leading-relaxed max-w-xs">
-                Geen haastige knippen. Geen compromissen. Alleen het beste resultaat voor jou.
+                Geen gehaast, geen compromissen. Gewoon het beste resultaat.
               </p>
             </div>
           </AnimateOnScroll>
@@ -282,20 +282,20 @@ export default function HomePage() {
               </div>
 
               <h2 className="font-playfair text-cream text-[clamp(32px,3.5vw,48px)] font-bold leading-tight mb-6">
-                Lennard Heida —{" "}
+                Lennard Heida,{" "}
                 <em className="text-gold font-normal italic">vakman</em> en{" "}
                 <em className="text-gold font-normal italic">perfectionist.</em>
               </h2>
 
               <div className="space-y-4 font-dm text-muted text-[15px] leading-relaxed">
                 <p>
-                  Lennard groeide op met de geur van haarproducten en de klank van scharen — zijn moeder, Anneke, runde dezelfde zaak al 35 jaar. Toen hij de kans kreeg om haar nalatenschap voort te zetten, greep hij die met beide handen aan.
+                  Lennard groeide op met de geur van haarproducten en het geluid van scharen. Zijn moeder Anneke runde dezelfde zaak al 35 jaar. Toen hij de kans kreeg om haar nalatenschap voort te zetten, greep hij die met beide handen aan.
                 </p>
                 <p>
                   Na zijn opleiding aan de Barberschool Amsterdam en jaren ervaring bij topzaken in de regio, opende hij Lenn Heida Barbershop. Zijn filosofie: elk hoofd is anders, elke klant verdient een gesprek en een kop koffie.
                 </p>
                 <p className="text-cream/75 border-l-2 border-gold/40 pl-4 italic">
-                  &ldquo;Ik knip niet gewoon haar — ik geef mensen het gevoel dat ze er op hun best uitzien. Dat begint met luisteren.&rdquo;
+                  &ldquo;Ik knip niet zomaar haar. Ik geef mensen het gevoel dat ze er op hun best uitzien. En dat begint met luisteren.&rdquo;
                 </p>
               </div>
 
@@ -349,7 +349,7 @@ export default function HomePage() {
           </h2>
 
           <p className="font-dm text-cream/60 text-[16px] leading-relaxed mb-10 max-w-lg mx-auto">
-            Boek online via Salonized. Geen wachtrijen, geen gedoe — gewoon kiezen wat bij jou past.
+            Boek online via Salonized. Geen wachtrijen, geen gedoe. Gewoon kiezen wat bij jou past.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
