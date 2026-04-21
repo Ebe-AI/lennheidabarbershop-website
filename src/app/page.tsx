@@ -170,7 +170,7 @@ export default function HomePage() {
                 </h2>
               </div>
               <p className="font-dm text-muted text-sm leading-relaxed max-w-xs">
-                Geen gehaast, geen compromissen. Gewoon het beste resultaat.
+                Geen gehaast, geen halfwerk. Gewoon het beste resultaat.
               </p>
             </div>
           </AnimateOnScroll>
